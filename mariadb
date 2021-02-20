@@ -1,0 +1,1 @@
+FROM docker.io/bitnami/mariadb:10.3.22-debian-10-r44
